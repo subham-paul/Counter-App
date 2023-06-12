@@ -8,7 +8,7 @@ This starter pack includes a basic setup for using **Tailwind CSS with React**. 
 
 1. Clone the repository to your local machine.
     ```sh
-    git clone https://github.com/thepranaygupta/react-tailwind-css-starter-pack.git
+    gh repo clone subham-paul/Counter-App-using-ReactJS
     ```
 
 1. Install the required packages.
